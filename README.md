@@ -111,4 +111,4 @@ Version 0.1. Built for low-volume, single-operator use. Deployed on a Canadian V
 ## About
 
 Built by **Kirko Papajanis** under [KRROP](https://krrop.com).
-More about me at [k18z.com](https://k18z.com).
+More about me at [k17z.com](https://k17z.com).
